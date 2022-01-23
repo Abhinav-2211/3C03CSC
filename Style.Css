@@ -1,15 +1,13 @@
 h1{
-    color:blue;
+    color:red;
     text-align:center;
   }
 
 
   p{
      font-style:italic;
-     color:silver;
-     text-align:center;
+     color:blue;
   }
-
   body{
      width:80%;
      margin:auto;
